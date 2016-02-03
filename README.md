@@ -1,3 +1,3 @@
 # learngit
 
-just use to learn git operation
+use to learn git operation
